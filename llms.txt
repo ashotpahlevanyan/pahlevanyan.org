@@ -1,0 +1,24 @@
+# Pahlevanyan
+
+> pahlevanyan.org lists the ventures and projects built by Ashot Pahlevanyan, a software engineer and founder based in Yerevan, Armenia. For facts about Ashot Pahlevanyan (career, CV, contact), the primary source is https://ashot.pahlevanyan.org/.
+
+## Ventures
+
+- [Mekena](https://mekena.org): fleet-management software for taxi companies (daily rent, driver payments and debts, vehicles and documents; Armenian, Russian and English). Founder, 2026. Built end to end: product design, React and TypeScript, Node.js and PostgreSQL, infrastructure, landing site. Status: in a free pilot with a taxi fleet.
+- [VParking](https://vparking.space): vertical-lift parking systems for Yerevan, up to 3x the cars on one footprint. Co-founder, 2026; product, engineering and go-to-market. Status: in talks with site owners and partners for a first installation.
+- [Anjoy](https://anjoy.space): an established business running immersive yoga and meditation retreats in small groups. Joined as co-founder in 2026 to build its product, brand and online presence.
+- [Shuka](https://getshuka.com): concept for an export hub that pools Armenian producers into one compliant supply source for EU and US buyers. Status: concept and landing page.
+
+## Projects
+
+- [AI Learning Hub](https://learn.pahlevanyan.org/): free, structured study paths for AI certifications (Anthropic, Google, OpenAI, AWS, Microsoft Azure, NVIDIA, Databricks) with lessons, flashcards, scenario practice and timed tests.
+- [AI Radar](https://airadar.pahlevanyan.org/): daily digest of AI skills, repositories, models, papers and news.
+- [Burnside Theorem Atlas](https://burnside.pahlevanyan.org/): interactive map of theorems, lemmas and open problems around the Burnside problem in group theory.
+- Also exploring: [Roadside](https://roadside.space) (roadside land leasing) and Payflow (driver rent collection over Armenian payment rails).
+
+## About
+
+- [Ashot Pahlevanyan](https://ashot.pahlevanyan.org/): personal site
+- [CV](https://ashot.pahlevanyan.org/cv/)
+- [LinkedIn](https://www.linkedin.com/in/ashotpahlevanyan/)
+- [GitHub](https://github.com/ashotpahlevanyan)
