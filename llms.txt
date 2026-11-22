@@ -4,8 +4,8 @@
 
 ## Ventures
 
-- [Mekena](https://mekena.org): fleet-management software for taxi companies (daily rent, driver payments and debts, vehicles and documents; Armenian, Russian and English). Founder, 2026. Built end to end: product design, React and TypeScript, Node.js and PostgreSQL, infrastructure, landing site. Status: in a free pilot with a taxi fleet.
-- [VParking](https://vparking.space): vertical-lift parking systems for Yerevan, up to 3x the cars on one footprint. Co-founder, 2026; product, engineering and go-to-market. Status: in talks with site owners and partners for a first installation.
+- [Mekena](https://mekena.org) ([LinkedIn](https://www.linkedin.com/company/mekena-org/)): fleet-management software for taxi companies (daily rent, driver payments and debts, vehicles and documents; Armenian, Russian and English). Founder, 2026. Built end to end: product design, React and TypeScript, Node.js and PostgreSQL, infrastructure, landing site. Status: in a free pilot with a taxi fleet.
+- [VParking](https://vparking.space) ([LinkedIn](https://www.linkedin.com/company/vparking-armenia/)): vertical-lift parking systems for Yerevan, up to 3x the cars on one footprint. Co-founder, 2026; product, engineering and go-to-market. Status: in talks with site owners and partners for a first installation.
 - [Anjoy](https://anjoy.space): an established business running immersive yoga and meditation retreats in small groups. Joined as co-founder in 2026 to build its product, brand and online presence.
 - [Shuka](https://getshuka.com): concept for an export hub that pools Armenian producers into one compliant supply source for EU and US buyers. Status: concept and landing page.
 
